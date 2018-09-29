@@ -13,7 +13,7 @@ Charla sobre la WIKI en Gitlab:
 	Mostrar el Welcome.
 	Diferencia entre Project y Group (pequeña reseña).
 	Explicar un poco esta técnica, mostrar el Github para tener una idea.
-	Explicar los formatos html, md y rst (muy breve y mostrar ejemplos).
+	Explicar los formatos html, *[md](guia/md.md) y *[rst](guia/rst.rst) (muy breve y mostrar ejemplos).
 	Crear un Project para la WIKI.
 	Descargar el Project.
 	Editar el README y mostrar el formato.
@@ -25,5 +25,8 @@ Charla sobre la WIKI en Gitlab:
 	Modificar el README para que llame al archivo rst.
 	Copiar toda la estructura actual de la WIKI.
 
+
+*[md](guia/md.md) y 
+*[rst](guia/rst.rst) 
 
 

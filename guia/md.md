@@ -41,4 +41,4 @@ Imágenes:
 * [Ejemplo de enlace desde la misma URL](guia/archivorst.rst)
 
 
-* [Abrir un documento](guia/COMO_OpenLDAP.doc)
+* [Abrir un documento](COMO_OpenLDAP.doc)

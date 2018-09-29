@@ -39,3 +39,6 @@ Imágenes:
 ![Texto alternativo](URL "Título de la imagen")
 
 * [Ejemplo de enlace desde la misma URL](guia/archivorst.rst)
+
+
+* [Abrir un documento](guia/COMO_OpenLDAP.doc)

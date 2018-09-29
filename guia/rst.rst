@@ -47,3 +47,5 @@ Imágenes:
  .. image:: images/ball1.gif
 
 .. figure:: ../images/01.png
+
+COMO_OpenLDAP.doc

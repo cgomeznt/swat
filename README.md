@@ -23,7 +23,8 @@ Charla sobre la WIKI en Gitlab:
 	Copiar una imagen en la carpeta images.
 	Modificar el archivo rst para que muestre la imagen y un link.
 	Modificar el README para que llame al archivo rst.
-	Copiar toda la estructura actual de la WIKI.
+	Crear toda la estructura de la WIKI.
+	Copiar toda la estructura actual de la WIKI al Gitlab.
 
 
 *[md](guia/md.md)

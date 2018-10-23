@@ -27,6 +27,7 @@ Charla sobre la WIKI en Gitlab:
 	Copiar toda la estructura actual de la WIKI al Gitlab.
 	Git security (No permitir crear Project & Groups)
 	Git commands https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
+	Todos los GIT para el Develop
 	Aclarar dudas.
 	Mostrar donde realmente se hacen las wiki por Project y mostrar la documentación.
 

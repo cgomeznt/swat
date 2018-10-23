@@ -25,6 +25,8 @@ Charla sobre la WIKI en Gitlab:
 	Modificar el README para que llame al archivo rst.
 	Crear toda la estructura de la WIKI.
 	Copiar toda la estructura actual de la WIKI al Gitlab.
+	Git security (No permitir crear Project & Groups)
+	Git commands https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html
 	Aclarar dudas.
 	Mostrar donde realmente se hacen las wiki por Project y mostrar la documentación.
 

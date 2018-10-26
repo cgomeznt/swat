@@ -1,4 +1,3 @@
-
 ## Charla Rapid Pago...!!!
 
 Charla sobre la WIKI en Gitlab:
